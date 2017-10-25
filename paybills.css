@@ -1,7 +1,4 @@
-.paybills-con{
-    width: 836px;
-    height: 800px;
-}
+
 .paybills-head{
     width: 756px;
     height: 74px;
@@ -15,33 +12,35 @@
 #paybills-entery1{
     width: 250px;
     height: 60px;
-    margin-left: 50px;
+    margin-left: 25%;
+    margin-bottom: 40px;
     background-color: #0F3B75;
     color: #ffffff;
 }
 #paybills-entery2{
      width: 250px;
      height: 60px;
-     margin-left: 50px;
+     margin-left: 25%;
+
      background-color: #0F3B75;
      color: #ffffff;
  }
 #paybills-entery3{
     width: 250px;
     height: 60px;
-    margin-left: 50px;
+    margin-left: 30%;
+    margin-bottom: 40px;
     background-color: #0F3B75;
     color: #ffffff;
 }
 #paybills-entery4{
     width: 250px;
     height: 60px;
-    margin-left: 50px;
-    background-color: #0F3B75;
-    color: #ffffff;
+    margin-left: 30%;
+
 }
 .paybills-body {
-    width: 836px;
+    width: 7566px;
     height: 800px;
     margin-top: 150px;
     margin-left: 100px;
@@ -50,5 +49,15 @@
 }
 .entery{
     padding:20px;
+    width: 250px;
+    height: 60px;
+    background-color: #0F3B75;
+    color: #ffffff;
+}
+.buttons1{
+    float: left;
+}
+.buttons2{
+    float: left;
 }
 
