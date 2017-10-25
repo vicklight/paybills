@@ -1,0 +1,54 @@
+.paybills-con{
+    width: 836px;
+    height: 800px;
+}
+.paybills-head{
+    width: 756px;
+    height: 74px;
+    margin-left: 100px;
+    background-color: #0F3B75;
+    color: #ffffff;
+}
+.paybills-head>h3{
+    text-align: right;
+}
+#paybills-entery1{
+    width: 250px;
+    height: 60px;
+    margin-left: 50px;
+    background-color: #0F3B75;
+    color: #ffffff;
+}
+#paybills-entery2{
+     width: 250px;
+     height: 60px;
+     margin-left: 50px;
+     background-color: #0F3B75;
+     color: #ffffff;
+ }
+#paybills-entery3{
+    width: 250px;
+    height: 60px;
+    margin-left: 50px;
+    background-color: #0F3B75;
+    color: #ffffff;
+}
+#paybills-entery4{
+    width: 250px;
+    height: 60px;
+    margin-left: 50px;
+    background-color: #0F3B75;
+    color: #ffffff;
+}
+.paybills-body {
+    width: 836px;
+    height: 800px;
+    margin-top: 150px;
+    margin-left: 100px;
+    border-style: solid;
+    border-color: #0F3B75;
+}
+.entery{
+    padding:20px;
+}
+
